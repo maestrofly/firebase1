@@ -1,0 +1,31 @@
+.navbar-default {
+    
+    background-color: #a99a42;
+    
+    border-radius: 0px;
+    border:none;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #f5f5f5;
+}
+
+.navbar-default .navbar-brand {
+    color: #03042e;
+    font-weight: bold;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+
+.carousel-content {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
